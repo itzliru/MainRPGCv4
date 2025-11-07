@@ -1,6 +1,6 @@
                                  Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+                          
+                        
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -45,7 +45,7 @@
       separable from, or merely link (or bind by name) to the interfaces of,
       the Work and Derivative Works thereof.
 
-      "Contribution" shall mean any work of authorship, including
+      "Contribution" shall mean works of authorship,
       the original version of the Work and any modifications or additions
       to that Work or Derivative Works thereof, that is intentionally
       submitted to Licensor for inclusion in the Work by the copyright owner
@@ -86,7 +86,7 @@
       granted to You under this License for that Work shall terminate
       as of the date such litigation is filed.
 
-   4. Redistribution. You may reproduce and distribute copies of the
+   4. Redistribution. You may only reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
       meet the following conditions:
