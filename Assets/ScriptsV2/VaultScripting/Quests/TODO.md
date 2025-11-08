@@ -1,0 +1,4 @@
+- [x] Create QuestNode base class
+- [x] Create BranchingQuestNode that listens to WorldBridge events for stat changes and branches
+- [x] Create SharedSubquestNode that uses DynamicDictionaryInvoker for shared logic
+- [x] Explain the flow and integration

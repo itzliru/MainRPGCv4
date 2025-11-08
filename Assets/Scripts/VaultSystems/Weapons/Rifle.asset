@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6af291e68a09fe84ea2e9b11fcab16a7, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  GunName: Rifle
+  GunType: 2
+  ShootConfig: {fileID: 11400000, guid: b6c9c50b246c5f042b052a7e604a0a9c, type: 2}
+  TrailConfig: {fileID: 11400000, guid: 2bc240e7b7d08494ebf19507457a16b6, type: 2}
+  ShootSound: {fileID: 8300000, guid: 0059576e04ed0d74da8315da64c883ed, type: 3}
+  ReloadSound: {fileID: 8300000, guid: fa2572fbe85d3474f8583e3e24c39a69, type: 3}
+  ModelPrefab: {fileID: 5675533747916962733, guid: 08ae80b2fb8487d438fb24352603478d, type: 3}
+  BulletPrefab: {fileID: 2283764951486141700, guid: ba45ccf7f33629344970c2f9316604c2, type: 3}
+  MuzzleFlashPrefab: {fileID: 539740102389628373, guid: d27bdaab7d1bc6849922d701b7086fff, type: 3}
+  ShellEjectPrefab: {fileID: 4360219752136151928, guid: af1d6ea130c662b41b3b7da40df8524b, type: 3}
+  BulletImpactPrefab: {fileID: 2283764951486141700, guid: ba45ccf7f33629344970c2f9316604c2, type: 3}
+  MuzzleFlashPosition: {x: 0, y: 0, z: 0}
+  ShellEjectPosition: {x: 0, y: 0, z: 0}
+  BulletSpawnPosition: {x: 0, y: 0, z: 0}

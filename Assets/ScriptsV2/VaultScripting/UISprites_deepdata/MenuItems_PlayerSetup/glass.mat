@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: glass
+  m_Shader: {fileID: 4800000, guid: dc48df302c067654b909917e60ee9f63, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 4f6ed0c173ca0084aa2eed6c3bb43f75, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BaseRadius: 1
+    - _BumpScale: 1
+    - _CustomDepthOffset: 0
+    - _Cutoff: 0.5
+    - _DarkenStrength: 0.3
+    - _DetailNormalMapScale: 1
+    - _DistortionScale: 0.05
+    - _DistortionSpeed: 0.4
+    - _DstBlend: 0
+    - _EnableDarken: 1
+    - _EnableWobble: 1
+    - _FogDensity: 0.02
+    - _GlossMapScale: 1
+    - _Glossiness: 0.59999996
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _ObjectDithering: 1
+    - _OcclusionStrength: 1
+    - _PSXFarPlane: 50
+    - _PSXNearPlane: 0.3
+    - _PSXSnapFar: 0.5
+    - _PSXSnapNear: 0.1
+    - _Parallax: 0.02
+    - _Pixelation: 2
+    - _RefractionStrength: 0.02
+    - _RimPower: 3
+    - _RotationSpeed: 2
+    - _Smoothness: 0.1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SwirlAmount: 0.5
+    - _TipRadius: 0.2
+    - _TornadoHeight: 5
+    - _Transparency: 0
+    - _UVSec: 0
+    - _VertexSnap: 0.015
+    - _WaveAmplitude: 0.05
+    - _WaveFrequency: 0.6
+    - _WaveSpeed: 1.5
+    - _WaveStrength: 0.05
+    - _WobbleAmount: 0.5
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.6839622, g: 0.9569597, b: 1, a: 0.12941177}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0.3}
+  m_BuildTextureStacks: []
